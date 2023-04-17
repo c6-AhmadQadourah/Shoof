@@ -44,7 +44,7 @@ These instructions will get you a copy of the project up and running on your loc
 git clone https://github.com/c6-AhmadQadourah/Shoof.git
 ```
 
-2. Install packages repeat this step in the repo folder 
+2. Install packages repeat this step in the repo folder OR write this commands in the VScode Terminal
 
 ```
 npm i expo
@@ -58,7 +58,7 @@ npm i react-native-vector-icons
 ```
 
 
-3. Run application using git bash inside the  folder
+3. Run application using git bash inside the  folder OR write this command in the VScode Terminal
 
 ```
 npm start
