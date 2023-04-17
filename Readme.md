@@ -44,7 +44,7 @@ These instructions will get you a copy of the project up and running on your loc
 git clone https://github.com/c6-AhmadQadourah/Shoof.git
 ```
 
-2. Install packages repeat this step in backend and frontend folder
+2. Install packages repeat this step in the repo folder 
 
 ```
 npm i expo
